@@ -1,5 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Tina Jeong</h1>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftinajeong&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <h3 align="center">💻 Tech Stack</h3>  
 
 <p align="center">
