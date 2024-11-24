@@ -33,4 +33,12 @@
 
 - 🎨 **Big fan of art:** : I could probably map out every exhibition in South Korea or any other country.
 - ☕ **Powered by caffeine:** When my code breaks, it’s coffee’s fault.  
-- 💻 **Always refactoring, even in my dreams:** I know perfect code doesn’t exist, but, it’s worth a try!   
+- 💻 **Always refactoring, even in my dreams:** I know perfect code doesn’t exist, but, it’s worth a try!
+
+---
+
+<p align="center">
+  <a href="mailto:tinajeong9966@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
